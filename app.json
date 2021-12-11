@@ -1,8 +1,8 @@
 {
   "expo": {
-    "name": "serveurstate",
-    "slug": "serveurstate",
-    "version": "1.0.0",
+    "name": "Mes repos",
+    "slug": "mesrepos",
+    "version": "1.0.1",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -17,13 +17,15 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.laznet.serveurstate"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.laznet.serveurstate"
     },
     "web": {
       "favicon": "./assets/favicon.png"
