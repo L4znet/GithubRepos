@@ -7,4 +7,4 @@ Pour télécharger mon application sous Android : [Télécharger](https://play.g
 
 ## Vous préférez peut être un QR code : 
 
-![Qr Code pour le téléchargement](https://i.ibb.co/KV86nM6/qrcode-play-google-com.png)
+![Qr Code pour le téléchargement](https://i.ibb.co/KV86nM6/qrcode-play-google-com.png =100x100)
